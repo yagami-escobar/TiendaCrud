@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee66fa4a-7ddd-4fd0-8661-42e6fa242e1d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorial/crud/controller/ProductoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorial/crud/controller/ProductoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorial/crud/dto/ProductoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorial/crud/dto/ProductoDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorial/crud/entity/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorial/crud/entity/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorial/crud/repository/ProductoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorial/crud/repository/ProductoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tutorial/crud/service/ProductoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tutorial/crud/service/ProductoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anotes-Proy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Anotes-Proy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tutorial/crud/controller/ProductoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tutorial/crud/controller/ProductoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crudFront/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../crudFront/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crudFront/src/app/models/producto.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../crudFront/src/app/models/producto.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crudFront/src/app/service/producto.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../crudFront/src/app/service/producto.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crudFront/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../crudFront/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,6 +35,7 @@
     </option>
   </component>
   <component name="ProjectId" id="27Nqpa3pOOcOlMXNbb3ycxgoeCG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
@@ -70,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649171077125</updated>
       <workItem from="1649171079953" duration="9291000" />
+      <workItem from="1649218995771" duration="2453000" />
     </task>
     <servers />
   </component>

@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee66fa4a-7ddd-4fd0-8661-42e6fa242e1d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/crud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crud/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/src/main/java/com/tutorial/crud/controller/ProductoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/crud/src/main/java/com/tutorial/crud/controller/ProductoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/src/main/java/com/tutorial/crud/dto/ProductoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/crud/src/main/java/com/tutorial/crud/dto/ProductoDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/src/main/java/com/tutorial/crud/entity/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/crud/src/main/java/com/tutorial/crud/entity/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/src/main/java/com/tutorial/crud/repository/ProductoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/crud/src/main/java/com/tutorial/crud/repository/ProductoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/src/main/java/com/tutorial/crud/service/ProductoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/crud/src/main/java/com/tutorial/crud/service/ProductoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/crud/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crudFront/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/crudFront/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crudFront/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/crudFront/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crudFront/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/crudFront/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crudFront/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/crudFront/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crudFront/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/crudFront/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1649171077125</updated>
       <workItem from="1649171079953" duration="9897000" />
+      <workItem from="1649218902085" duration="28000" />
+      <workItem from="1649218962668" duration="19000" />
     </task>
     <servers />
   </component>
